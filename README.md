@@ -7,9 +7,9 @@
 #### 📜 I'm Learning
 
 <!-- Learning starts -->
--   🔭 web front end ( ts + vue )
+-   🔭 web front end ( ts + vue + pnpm )
 -   🌱 game developing ( using cocos and unity. May learn ue5 in the future )
--   😄 I also learn other programing languages, such as golang, python and rust ( You may see them in my repositories : ) ).
+-   😄 I also learn other programing languages, such as python, dart and java. And I learned golang and rust a long time ago. ( You may see them in my repositories : ) ). 
 <!-- Learning ends -->
 
 <img width="500" height="1">
